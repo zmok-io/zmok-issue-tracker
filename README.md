@@ -11,6 +11,7 @@ When reporting an issue, please provide the following information:
 4. **Actual Behavior**: A brief explanation of what actually happened.
 5. **Screenshots**: Attach any relevant screenshots, if possible.
 6. **Environment**: Specify the platform, browser, and ZMOK version you are using.
+6. **Account ID**: Include your ZMOK Account ID to be eligible for the reward.
 
 ## Requesting a Feature
 When requesting a feature, please provide the following information:
